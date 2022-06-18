@@ -13,7 +13,7 @@ const Companies = () => {
     return (
         <Container sx={{position: 'relative', display: 'block', float: 'left', marginTop: '-100px'}}>
             <div>
-               <p style={{color: 'white', marginLeft: '26px'}}> <CheckCircleIcon sx={{color: 'white', fontSize: 'small'}}/>Last Updated June 2022</p>
+               <p style={{color: 'white', marginLeft: '35px'}}> <CheckCircleIcon sx={{color: 'white', fontSize: 'small'}}/>Last Updated June 2022</p>
             </div>
             <Grid container spacing={2}>
             
